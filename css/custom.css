@@ -1,0 +1,46 @@
+header div.top{
+	margin-left: 1px;
+	background-color: #EEEEEE;
+}
+header{
+	margin-top: 1%;
+}
+header div.logos a i{
+	text-decoration: none;
+	color: #333333;
+}
+div.brandmenu img{
+	margin-top: 5%;
+	width: 40%;
+}
+div.brandmenu{
+	margin-left: 2%;
+
+}
+div.menu{
+	justify-content: center;
+	width: 60%;
+}
+div.numeris.col-11{
+	text-align: right;
+}
+div.numeris h4{
+	font-size: 17px;
+	margin-right: 35px;
+}
+div.logos{
+	margin-left: 5px;
+}
+header button{
+	border-radius: 0 !important;
+}
+.carousel-indicators{
+	justify-content: flex-end;
+}
+div section h4{
+	background-color: #666666;
+}
+.naujienos{
+	margin-left: 25px;
+	background-color: #EEEEEE;
+}
